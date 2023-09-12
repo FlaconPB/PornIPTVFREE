@@ -1,0 +1,71 @@
+{
+    "news_1": {
+        "title": "NecroBoy : Path to Evilship [NSP] [V0]",
+        "content": "NecroBoy : Path to Evilship raconte l'histoire d'un jeune nécromancien souhaitant devenir le plus grand Seigneur du Mal!",
+        "images": {
+            "image_1": "https://i.ibb.co/hLMMptB/Necro-Boy-Path-to-Evilship-NSP-XCI-ROM-png.webp"
+        }
+    },
+    "news_2": {
+        "title": " 30XX [NSP] [V0]",
+        "content": "Plateforme d’action classique avec mouvement fluide, possibilité de rejouer infinie et mode coopératif complet.",
+        "images": {
+            "image_1": "https://i.ibb.co/VDHMCnm/30-XX-NSP-XCI-ROM.webp"
+        }
+    },
+    "title": "Flame Keeper [EUR][NSP][v196608]",
+        "content": "COMBATTEZ, ADAPTEZ-VOUS ET PERSÉVÉREZ",
+        "images": {
+            "image_1": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_FlameKeeper_image500w.jpg"
+        }
+    },
+    "news_4": {
+        "title": "Samba de Amigo Party Central [XCI][US][v0]",
+        "content": "Déchaînez-vous sur la scène avec ce jeu d'action en rythme palpitant ; Amigo et ses amis sont de retour dans Samba de Amigo: Party Central !, Récupérez vos maracas et mettez le feu sur 40 tubes de genres variés, ainsi que sur de nouvelles chansons qui seront disponibles dans un prochain DLC !",
+        "images": {
+            "image_1": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw55703d74/images/high-res/130580.jpg"
+        }
+    },
+    "news_5": {
+        "title": "Taito Milestones 2 [XCI][US][v65536]",
+        "content": "uite à Taito Milestones, sorti l'année dernière, voici une nouvelle collection rassemblant des classiques de l'arcade signés Taito.",
+        "images": {
+            "image_1": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwac74e411/images/high-res/132911.jpg"
+        }
+    },
+    "news_6": {
+        "title": "Dordogne [NSP][EUR][v65536]",
+        "content": "Parcourez les paysages aux mille couleurs estivales de la Dordogne, au cœur de décors somptueux en aquarelle peints à la main.",
+        "images": {
+            "image_1": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_Dordogne_image500w.jpg"
+        }
+    },
+    "news_7": {
+        "title": "Sea of Stars [NSP][EUR][v65536]",
+        "content": "Sea of Stars est un jeu vidéo de rôle de Sabotage Studio. Préquelle de The Messenger, il est sorti sur Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One et Xbox Series X/S le 29 août 2023.",
+        "images": {
+            "image_1": "https://i.ytimg.com/vi/M3uyCv3NwC0/hqdefault.jpg"
+        }
+    },
+    "news_8": {
+        "title": "Blasphemous 2 [EUR][NSP][v196608]",
+        "content": "Jamais la pénitence ne s’arrête.",
+        "images": {
+            "image_1": "https://i2.imageban.ru/out/2023/07/19/a08df56bd53faf3cb8a143f644b58a25.png"
+        }
+    },
+    "news_9": {
+        "title": "Die After Sunset [US][NSP][v65536]",
+        "content": "Ils veulent changer le passé... On doit les en empêcher !, Plonge dans une aventure spatio-temporelle remplie d'action : la Terre est attaquée par des extraterrestres, et c'est à toi de mener la résistance contre les murkors dans Mort à la tombée du jour, un jeu de tir roguelite dynamique. Essaie différentes combinaisons d'objets et progresse à travers les missions dans cette course contre la montre pour affronter des boss gigantesques ! S'ils te terrassent, pas d'inquiétude : la mort n'est que le début !, Retourne au combat en étant toujours plus fort à chaque partie !",
+        "images": {
+            "image_1": "https://i6.imageban.ru/out/2023/08/03/dc0c7717d6cb148cef4819c1029c0c3c.png"
+        }
+    },
+    "news_10": {
+        "title": "Hello Engineer [US][NSP][v65536]",
+        "content": "otre inquiétant voisin a transformé un mystérieux parc d’attractions en piège redoutable ! Faites preuve de créativité, déployez vos compétences en ingénierie, montez à bord de votre machine et affrontez des secrets sombres et menaçants pour vous échapper.",
+        "images": {
+            "image_1": "https://i3.imageban.ru/out/2023/08/20/c05dda139bad6ea8cef250ab67892c4c.png"
+        }
+    }
+}
